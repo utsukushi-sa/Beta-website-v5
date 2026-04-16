@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<title>Shop</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="navbar">
+<h1>Beta RR50</h1>
+<div>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="cart.html">🛒 <span id="cartCount"></span></a>
+</div>
+</nav>
+
+<input id="search" placeholder="Zoek..." onkeyup="searchProducts()">
+
+<div class="filters">
+<button onclick="filterProducts('all')">Alles</button>
+<button onclick="filterProducts('performance')">Performance</button>
+</div>
+
+<div class="products" id="products"></div>
+<script src="script.js"></script>
+</body>
+</html>
