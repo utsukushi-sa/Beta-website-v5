@@ -1,20 +1,129 @@
 [
   {
-    "id": "tandwiel",
+    "id": "achtertandwiel",
     "naam": "Achtertandwiel Dopler 53 tanden 420",
     "prijs": 44.95,
     "img": "img/Doppler-sprocket-black-53-420.jpg",
-    "categorie": "performance",
+    "categorie": ["speed","performance","aandrijving"],
     "effect": "meer topsnelheid",
     "link": "https://www.ezrider.nl/achtertandwiel-53-tanden-420-doppler-zwart-aluminium-beta-rr/"
   },
   {
     "id": "uitlaat",
     "naam": "Uitlaat LeoVince",
-    "prijs": 126.95,
+    "prijs": 129.95,
     "img": "img/LeoVince-uitlaat-motard-rr50.jpg",
     "categorie": "performance",
     "effect": "Meer topsnelheid/optrek",
     "link": "https://www.ezrider.nl/uitlaat-leovince-x-fight-50-70cc-voor-beta-2023-minarelli-am6/"
+  }, 
+  {
+    "id": "sproeiers polini",
+    "naam": "sproeierset Polini",
+    "prijs": 23.99,
+    "img": "img/sproeierset-polini-kparts.png",
+    "categorie": ["carburatie","afstelling"],
+    "effect": "afsteling voor uitlaat",
+    "link": "https://www.k-parts.be/nl/sproeierset-polini-dellorto-groot-6mm-alle-maten"
+  },
+  {
+    "id": "carburateur naraku",
+    "naam": "carburateur naraku",
+    "prijs": 66.95,
+    "img": "img/Carburateur-Naraku-Black-Edition-21mm.jpg",
+    "categorie": ["carburatie","afstelling","performance"],
+    "effect": "Nodig bij grotere cilinders",
+    "link": "https://www.ezrider.nl/carburateur-naraku-21mm-black-edition/"
+  },
+  {
+    "id": "Ketting AFAM",
+    "naam": "Ketting AFAM 420M x 140",
+    "prijs": 21.95,
+    "img": "img/Ketting-AFAM.jpg",
+    "categorie": ["aandrijving"],
+    "effect": "voor aandrijving van engine naar achterwiel",
+    "link": "https://www.ezrider.nl/ketting-afam-premium-420m-x-140-zwart/"
+  },
+  {
+    "id": "Voortandwiel 13 ",
+    "naam": "Voortandwiel 13 Tanden 420",
+    "prijs": 7.95,
+    "img": "img/Voortandwiel-13T.jpg",
+    "categorie": ["aandrijving","performance","speed"],
+    "effect": "voor aandrijving van engine naar achterwiel",
+    "link": "https://www.ezrider.nl/voortandwiel-13-tanden-420-beta-motorhispania-rieju-yamaha-minarelli-am6/"
+  },
+  {
+    "id": "Voortandwiel 11 ",
+    "naam": "Voortandwiel 11 Tanden 420",
+    "prijs": 7.95,
+    "img": "img/Voortandwiel-11T.jpg",
+    "categorie": ["aandrijviESng"],
+    "effect": "voor aandrijving van engine naar achterwiel",
+    "link": "https://www.ezrider.nl/voortandwiel-11-tanden-420-beta-motorhispania-rieju-yamaha-minarelli-am6/"
+  },
+  {
+    "id": "Achterframe > 2021",
+    "naam": "Achterframe (vanaf 21)",
+    "prijs": 111.99,
+    "img": "img/achterframe-2021.jpg",
+    "categorie": ["chasis"],
+    "effect": "achterframe voor motard modellen vanaf 2021",
+    "link": "https://beta-motor-shop.de/nl/rrre-125-onderdelen/diverse-accessoires/1487/achterframe-vanaf-21?c=130"
+  },
+  {
+    "id": "motardvelg > 2021",
+    "naam": "Motardvelg (vanaf 21)",
+    "prijs": 279.99,
+    "img": "img/motardvelg-2021.jpg",
+    "categorie": ["chasis"],
+    "effect": "velg voor motard vanaf 2021",
+    "link": "https://beta-motor-shop.de/nl/rrre-125-onderdelen/slijtage-onderdelen/banden-accessoires/3073/motardvelg-vanaf-21?number=&c=149"
+  },
+  {
+    "id": "voorvork",
+    "naam": "Voorvork Beta",
+    "prijs": 265.10,
+    "img": "img/voorvork-beta.jpg",
+    "categorie": ["chasis"],
+    "effect": "Voorvork voor Beta motard modellen",
+    "link": "https://www.scooterdiscounter.nl/voorvork-beta-rr-derbi-x-race-rieju-mrt.html?utm_source=googleshopping&utm_medium=cpc&utm_campaign=googleshopping&gad_source=1&gad_campaignid=9465223368&gbraid=0AAAAADf26pcB966dnFFi50Kr7xv4yCm5v&gclid=Cj0KCQjw-NfDBhDyARIsAD-ILeA_fA4oRqVkGrb-ZcJUzhHmxYRgsML_bjkryUP7BBinP0ajKPYLVh4aAmvtEALw_wcB"
+  },
+  {
+    "id": "castol olie",
+    "naam": "Castrol power RS 2T olie 6 stuks",
+    "prijs": 59.70,
+    "img": "img/Castrol-2T-6.jpg",
+    "categorie": ["onderhoud"],
+    "effect": "Castrol 2T olie 6 stuks",
+    "link": "https://www.ezrider.nl/castrol-power-rs-2t-volsyntetische-2-takt-olie-1-liter-6-stuks/"
+  },
+  {
+    "id": "Bougie BR9ES",
+    "naam": "Bougie BR9ES",
+    "prijs": 7.95,
+    "img": "img/bougie-br9es.jpg",
+    "categorie": ["onderhoud"],
+    "effect": "Bougie NGK BR9ES",
+    "link": "https://www.ezrider.nl/bougie-br9es-ngk/"
+  },
+  {
+    "id": "trans-olie Castrol",
+    "naam": "Castrol 10W40 2t transmisie olie",
+    "prijs": 9.35,
+    "img": "img/Castrol-10W40.jpg",
+    "categorie": ["onderhoud"],
+    "effect": "Transmisie olie voor 2T motors met aparte versnellingbak",
+    "link": "https://www.ezrider.nl/castrol-mtx-10w40-versnellingsbakolie-1-liter/"
+  },
+  {
+    "id": "trans-olie Motul",
+    "naam": "Motul 10W40 2t transmisie olie",
+    "prijs": 20.95,
+    "img": "img/Motul-10W40.jpg",
+    "categorie": ["onderhoud"],
+    "effect": "Transmisie olie voor 2T motors met aparte versnellingbak voor hoogtoerige motors",
+    "link": "https://www.ezrider.nl/motul-versnellingsbakolie-expert-10w40-2-takt-1-liter/"
   }
+
 ]

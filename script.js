@@ -47,8 +47,11 @@ Buy
 }
 
 function filterProducts(cat){
-if(cat==="all") return renderProducts(allProducts);
-renderProducts(allProducts.filter(p=>p.categorie===cat));
+  if(cat === "all") return renderProducts(allProducts);
+
+  renderProducts(
+    allProducts.filter(p => p.categorie.includes(cat))
+  );
 }
 
 function searchProducts(){
