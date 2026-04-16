@@ -1,7 +1,7 @@
 [
   {
     "id": "tandwiel",
-    "naam": "Achtertandwiel",
+    "naam": "Achtertandwiel Dopler 53 tanden 420",
     "prijs": 44.95,
     "img": "img/Doppler-sprocket-black-53-420.jpg",
     "categorie": "performance",
@@ -12,7 +12,7 @@
     "id": "uitlaat",
     "naam": "Uitlaat LeoVince",
     "prijs": 126.95,
-    "img": "/img/LeoVince-uitlaat-motard-rr50.jpg",
+    "img": "img/LeoVince-uitlaat-motard-rr50.jpg",
     "categorie": "performance",
     "effect": "Meer topsnelheid/optrek",
     "link": "https://www.ezrider.nl/uitlaat-leovince-x-fight-50-70cc-voor-beta-2023-minarelli-am6/"
